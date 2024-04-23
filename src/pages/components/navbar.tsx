@@ -5,7 +5,7 @@ import { TbSearch } from 'react-icons/tb';
 
 export default function Navbar() {
     return (
-        <header className='container mx-auto'>
+        <header className='container mx-auto  px-4'>
             <nav className="bg-white">
                 {/* <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8"> */}
                 <div className="flex items-center justify-around py-8">
