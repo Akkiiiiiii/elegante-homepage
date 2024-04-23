@@ -59,6 +59,5 @@ export default function Navbar() {
             </nav>
             <hr className='pb-8' />
         </header>
-
     )
 }
